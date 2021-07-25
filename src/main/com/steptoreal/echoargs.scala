@@ -1,6 +1,6 @@
 package com.steptoreal
 
-class echoargs {
+class Echoargs {
     def execute (args : Array[String]) {
         var i  = 0
         while (i < args.length) { 

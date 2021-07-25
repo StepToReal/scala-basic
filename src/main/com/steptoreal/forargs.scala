@@ -1,6 +1,6 @@
 package com.steptoreal
 
-object forargs {
+object Forargs {
     def execute (args : Array[String]) {
         for (arg <- args){ 
             println(arg)

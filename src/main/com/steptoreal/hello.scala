@@ -1,6 +1,6 @@
 package com.steptoreal
 
-class hello {
+class Hello {
     def execute (args : Array[String]) {
         println("Hello, " + args(0) + "!")
     }

@@ -1,12 +1,12 @@
 package com.steptoreal
 
-object listUse {
+object ListUse {
     def execute {
         val oneTwo = List(1,2)
         val threeFour = List(3,4)
         val oneTwoThreeFour = oneTwo ::: threeFour
 
-        println(oneTwo + " and " + threeFour + " were not mutated.")
+        println(oneTwo + " and " + threeFour + " were not mutated..")
         println("thus, " + oneTwoThreeFour + " is a new list.")
 
 

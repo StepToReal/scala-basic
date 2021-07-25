@@ -1,9 +1,9 @@
 package com.steptoreal
 
-object pa {
+object Pa {
     def execute (args : Array[String]) {        
         args.foreach((arg: String) => println(arg))
         println()
-        args.foreach(println)
+        args.foreach(println) 
     }
 }

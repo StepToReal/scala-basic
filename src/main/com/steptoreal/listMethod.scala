@@ -1,6 +1,6 @@
 package com.steptoreal
 
-object listMethod {
+object ListMethod {
     def execute {
         val testList = List("Cool", "tools", "rule")
         println(testList)

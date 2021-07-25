@@ -1,6 +1,6 @@
 package com.steptoreal
 
-object listInstance {
+object ListInstance {
     def execute {
         val greetStrings = new Array[String](3)
 
